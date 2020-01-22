@@ -1,0 +1,65 @@
+{
+  "name": "BofM-Geography",
+  "version": "0.0.1",
+  "date": "2020-01-21",
+  "copyright": "2020",
+  "description": "Map showing Book of Mormorn Landmarks",
+  "keywords": [
+    "Book of Mormon",
+    "explorations",
+    "geography",
+    "land",
+    "places",
+    "routes",
+    "history",
+    "travels",
+    "maps"
+  ],
+  "main": "src/main.js",
+  "homepage": "https://",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Vern Wolfley",
+  "private": true,
+  "dependencies": {
+    "add-to-homescreen": "^3.2.6",
+    "html5-boilerplate": "^7.3.0",
+    "jshint": "^2.11.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.3",
+    "@babel/preset-env": "^7.8.3",
+    "grunt": "^1.0.4",
+    "grunt-babel": "^8.0.0",
+    "grunt-comment-toggler": "^0.2.2",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-htmlmin": "^3.1.0",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-sass": "^3.1.0",
+    "grunt-text-replace": "^0.4.0",
+    "grunt-version-check": "^0.3.8",
+    "jshint-stylish": "^2.2.1",
+    "jshint-stylish-ex": ">=0.2.0",
+    "lodash": "^4.17.15",
+    "matchdep": "^2.0.0",
+    "node-normalize-scss": "^8.0.0",
+    "node-sass": "^4.13.1",
+    "normalize.css": ">=8.0.1"
+  },
+  "engines": {
+    "node": ">=12.14.1",
+    "npm": ">=6.13.6"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 9"
+  ],
+  "license": "MIT"
+}

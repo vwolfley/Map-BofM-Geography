@@ -1,0 +1,29 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+        Name:  Vern Wolfley
+        Role: GIS Analyst/Developer
+        Contact:
+        Twitter: @vernwolfley
+        From: Litchfield Park, AZ
+
+
+# THANKS
+
+
+# TECHNOLOGY COLOPHON
+
+    Standards: HTML5, CSS3
+    Components: ESRI Javascript API, HTML5BoilerPlate, Normalize.css, jQuery, Modernizr,  Bootstrap, Grunt
+
+# SITE
+    Site name:
+    Site URL:  https://
+    Version: 0.0.1
+    Last updated: 2020-01-21
+    Creation Date: 2020-01-21
+    Language: English
+    Doctype: HTML5
+    IDE: VS Code, Sublime Text

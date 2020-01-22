@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.23160934448242,
+                    31.777978651249462
+                ]
+            },
+            "properties": {
+                "Scripture_Name": "Jerusalem",
+                "Current_Name": "Jerusalem",
+                "Year": "600a.d."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.33338737487793,
+                    16.73181075731428
+                ]
+            },
+            "properties": {
+                "Scripture_Name": "The Land Bountiful",
+                "Current_Name": "Khor Kharfot, Oman",
+                "Year": "600a.d."
+            }
+        }
+    ]
+}
