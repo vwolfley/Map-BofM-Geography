@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Mindless: docs",
+    "color": "#FFEAB8",
+    "discription": "test"
+  },
+  {
+    "name": "Mindless: documentation",
+    "color": "#FFEAB8",
+    "discription": "test"
+  },
+  {
+    "name": "Mindless: structure",
+    "color": "#FFEAB8",
+    "discription": "test"
+  },
+  {
+    "name": "Experience: design",
+    "color": "#cef2ac",
+    "discription": ""
+  },
+  {
+    "name": "Experience: database",
+    "color": "#cef2ac",
+    "discription": ""
+  },
+  {
+    "name": "Experience: ux",
+    "color": "#cef2ac",
+    "discription": ""
+  },
+  {
+    "name": "Priority: low",
+    "color": "#FFEAB8",
+    "discription": ""
+  },
+  {
+    "name": "Priority: medium",
+    "color": "#fbca04",
+    "discription": ""
+  },
+  {
+    "name": "Priority: high",
+    "color": "#ee4035",
+    "discription": ""
+  },
+  {
+    "name": "Priority: critical",
+    "color": "#cc2a36",
+    "discription": ""
+  },
+  {
+    "name": "Status: blocked",
+    "color": "#ee4035",
+    "discription": ""
+  },
+  {
+    "name": "Status: completed",
+    "color": "#7ED321",
+    "discription": ""
+  },
+  {
+    "name": "Status: duplicate",
+    "color": "#cccccc",
+    "discription": ""
+  },
+  {
+    "name": "Status: in-progress",
+    "color": "#1d76db",
+    "discription": ""
+  },
+  {
+    "name": "Status: inactive",
+    "color": "#cccccc",
+    "discription": ""
+  },
+  {
+    "name": "Status: on-hold",
+    "color": "#ee9d35",
+    "discription": ""
+  },
+  {
+    "name": "Status: review-needed",
+    "color": "#fbca04",
+    "discription": ""
+  },
+  {
+    "name": "Status: wont-fix",
+    "color": "#cccccc",
+    "discription": ""
+  },
+  {
+    "name": "Status: by-design",
+    "color": "#3865a3",
+    "discription": ""
+  },
+  {
+    "name": "Status: cant-reproduce",
+    "color": "#cccccc",
+    "discription": ""
+  },
+  {
+    "name": "Type: bug",
+    "color": "#b60205",
+    "discription": ""
+  },
+  {
+    "name": "Type: discussion",
+    "color": "#c495f0",
+    "discription": ""
+  },
+  {
+    "name": "Type: enhancement",
+    "color": "#1c82b4",
+    "discription": ""
+  },
+  {
+    "name": "Type: feature",
+    "color": "#00FF00",
+    "discription": ""
+  },
+  {
+    "name": "Type: fix",
+    "color": "#88d263",
+    "discription": ""
+  },
+  {
+    "name": "Type: help-needed",
+    "color": "#5319e7",
+    "discription": ""
+  },
+  {
+    "name": "Type: idea",
+    "color": "#6DE6FF",
+    "discription": ""
+  },
+  {
+    "name": "Type: maintenance",
+    "color": "#FFA500",
+    "discription": ""
+  },
+  {
+    "name": "Type: optimization",
+    "color": "#1c82b4",
+    "discription": ""
+  },
+  {
+    "name": "Type: testing",
+    "color": "#fbca04",
+    "discription": ""
+  }
+]
